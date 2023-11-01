@@ -1,0 +1,14 @@
+# clion
+cmake-*
+.idea
+
+# vscode
+build
+.vscode
+
+# clangd
+.cache
+.clangd
+
+# tests
+tests/**/bin
